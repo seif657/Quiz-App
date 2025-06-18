@@ -73,7 +73,7 @@ class QuizScreen extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(
-                    height: 5,
+                    height: 90,
                   ),
                   SizedBox(
                     height: 450,

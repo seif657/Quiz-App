@@ -8,7 +8,7 @@ import 'package:get/get.dart';
 
 
 void main() {
-  runApp( MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
